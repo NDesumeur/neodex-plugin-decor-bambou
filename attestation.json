@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorbambou",
+  "repo": "NDesumeur/neodex-plugin-decor-bambou",
+  "version": "1.0.0",
+  "sha256": "5de86e65eba1ad3f9baa0d5249523af43df4ab65b5c47c372a58d9202de6e199",
+  "approvedAt": "2026-11-22T19:05:25.792Z",
+  "neobase": ">=4.1.0",
+  "signature": "yceUGNJuhO7kUR9je0vtXLgOmSdnk96e7jwLJk3I8pWzG91vgf/JXANfkBxZo4kwKzhEtQ2ENcQs6HwBxRTbDw=="
+}
